@@ -1,1 +1,8 @@
 XAMR/.vs/XAMR/v15/sqlite3/storage.ide
+*.nupkg
+*.dll
+*.xml
+XAMR/XAMR/XAMR.Android/obj/Debug/
+XAMR/packages/
+XAMR/XAMR/XAMR.UWP/obj/
+XAMR/XAMR/XAMR.Android/bin/

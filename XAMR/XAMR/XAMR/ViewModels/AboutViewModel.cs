@@ -31,7 +31,7 @@ namespace XAMR.ViewModel
 
         public void Execute(object parameter)
         {
-            CrossShare.Current.OpenBrowser("https://xamarin.com/platform");
+            CrossShare.Current.OpenBrowser("https://www.google.com");
         }
     }
 }
